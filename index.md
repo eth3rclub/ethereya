@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Ethereya
 
-You can use the [editor on GitHub](https://github.com/eth3rclub/ethereya/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Список обновлений
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 5H04
 
-### Markdown
+- Добавлен браузер
+- Кнопка для выхода видна всем устройствам (раньше было только для 1920x1080)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 5H05
 
-```markdown
-Syntax highlighted code block
+- Добавлен проводник
 
-# Header 1
-## Header 2
-### Header 3
+#### 5H05a
 
-- Bulleted
-- List
+- Проводник был выпелен, т.к. он был недоработан, кнопка снова открывает стандартный проводник в Windows.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eth3rclub/ethereya/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
